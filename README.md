@@ -1,1 +1,3 @@
 # teste
+
+- Exercicios de git
